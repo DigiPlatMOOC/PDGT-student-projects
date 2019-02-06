@@ -10,7 +10,7 @@ If your project is missing from the list, please submit a pull request! 🙏
 
 ## 2018–2019
 
-| Project 🔗 | Students | Description |
+| Project&nbsp;🔗 | Students | Description |
 | :--- | :--- | :--- |
 | [Link](https://github.com/SerpensSolida/progetto-piattaforme) | [SerpensSolida](https://github.com/SerpensSolida) and [baloonSpot](https://github.com/baloonSpot) | Platform and API for a multiplayer online game, Telegram bot client. |
 | [Link](https://github.com/ColoLoco/Progetto_PDGT_2018) | [ColoLoco](https://github.com/ColoLoco) | Public transport API of Venezia, PHP command line client. |
