@@ -4,6 +4,10 @@ List of student projects turned in for the “Digital Platforms” exam at the [
 
 If your project is missing from the list, please submit a pull request! 🙏
 
+## 2019–2020
+
+*Coming soon.*
+
 ## 2018–2019
 
 | Project 🔗 | Students | Description |
