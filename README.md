@@ -24,7 +24,3 @@ If your project is missing from the list, please submit a pull request! 🙏
 | [Link](https://github.com/JFrezzo/ServizioTrasportoPDGT) | [JFrezzo](https://github.com/JFrezzo) | Uber-like public transport API, Android client. |
 | [Link](https://github.com/Fast0n/ProgettoPDGT) | [Giorgia Giuseppetti](https://github.com/gg97g) and [Massimiliano Montaleone](https://github.com/Fast0n) | Restaurant and Point of Interest access API (through Google Maps API), Telegram bot client, Android client. Travis CI. |
 | [Link](https://github.com/acolapietro2/progetto-pdgt) | [Antonio Colapietro](https://github.com/acolapietro2) | US hotspot API, Telegram bot client. |
-
-## 2017–2018
-
-To do.
